@@ -1,0 +1,145 @@
+body{
+    width: 1440px;
+    height: 800px;
+    text-align: left;  
+    margin: auto;
+}
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    padding-left: 40px;
+    line-height: 1.5;
+}
+h1{
+    color: hsl(0, 0%, 95%);
+    font-family:'Big Shoulders Display';
+    font-weight: 700;
+    padding-left: 40px;
+}
+
+.ssl{
+    width: 900px;
+    height: 450px;
+    margin-top: 0px;
+    margin-bottom: 175px;
+    margin-right: 270px;
+    margin-left: 270px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.sedans{
+    height: 450px;
+    width: 300px;
+    background-color: hsl(31, 77%, 52%);
+}
+
+.sedan-car{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.sedan-btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: 	#e38826;
+    font-size: 15px;
+    background: #f2f2f2;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    left: 40px;
+    top: 50px;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.suvs{
+    height: 450px;
+    width: 300px;
+    background-color: hsl(184, 100%, 22%);
+    position: relative;
+    left: 300px;
+    bottom: 450px;
+}
+
+.suv-car{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.suv-btn{
+    -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Lexend Deca', sans-serif;
+  color: 	#006970;
+  font-size: 15px;
+  background: #f2f2f2;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  left: 40px;
+  top: 50px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;    
+}
+
+.luxury{
+    height: 450px;
+    width: 300px;
+    background-color: hsl(179, 100%, 13%); 
+    position: relative;
+    left: 600px;
+    bottom: 900px; 
+}
+
+.luxury-car{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.luxury-btn{
+    -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Lexend Deca', sans-serif;
+  color: 	#004241;
+  font-size: 15px;
+  background: #f2f2f2;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+    left: 40px;
+    top: 50px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
